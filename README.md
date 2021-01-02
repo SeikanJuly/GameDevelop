@@ -1,12 +1,12 @@
 # GameDevelop
-First_Mission
 
-Create a database
+1.Create a MySQL DB for gaming quest!
 
-Create same talbles:
+Create same talbles: [smallint]\
 id - identity document
 name - quest name for reading
 type - quest type for playing
-ability - 
+acceptable - open or not [boolean]
 states_type
-states 
+states -  [unsigned tinyint]
+finished time - [date time]
