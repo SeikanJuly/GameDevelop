@@ -9,4 +9,4 @@ type - quest type for playing\
 acceptable - open or not [boolean]\
 states_type\
 states -  [unsigned tinyint]\
-finished time - [date time]\
+finished time - [date time]
